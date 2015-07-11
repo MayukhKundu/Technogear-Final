@@ -1,4 +1,4 @@
 [
-{"title":"Lobby","isOfficial":true,"autojoin":true,"auth":{"mudkipguy":"~"},"introMessage":"<h2><center> Welcome to Technogear!</center></h2><br><h3><center>We do not advertise!</center></h3><br><br> <center> Enjoy your stay!</center></br>","desc":"Battle,Chat and Relax!"},
+{"title":"Lobby","isOfficial":true,"autojoin":true,"auth":{"mudkipguy":"~"},"desc":"Battle,Chat and Relax!"},
 {"title":"Staff","isPrivate":true,"staffRoom":true,"staffAutojoin":true}
 ]
